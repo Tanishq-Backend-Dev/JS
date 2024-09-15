@@ -4,7 +4,7 @@ Primitive
 
 Non-Primitive
 Array, Object, Function.
-*/
+
 
 const score = 100;
 const scoreValue = 100.3;
@@ -29,3 +29,8 @@ const myFunction = function(){
 }
 
 console.log(typeof outsideTemp);
+*/
+
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// Stack, Heap
